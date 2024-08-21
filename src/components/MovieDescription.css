@@ -1,0 +1,22 @@
+.movie-description {
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .movie-description .trailer {
+    margin: 20px 0;
+  }
+  
+  .back-button {
+    padding: 10px 20px;
+    background-color: #e50914;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .back-button:hover {
+    background-color: #f34242;
+  }
+  
